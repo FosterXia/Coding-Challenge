@@ -8,19 +8,19 @@ Used Java and Spring Boot implement the REST API.
 
 * Customer List
 
-  ![image](dataset\Customer List.PNG)
+  ![image](https://github.com/FosterXia/Coding-Challenge/blob/master/dataset/Customer%20List.PNG)
 
 * Transaction List
 
-![image](dataset\Transaction List.PNG)
+![image](https://github.com/FosterXia/Coding-Challenge/blob/master/dataset/Transaction%20List.PNG)
 
 - Monthly Total Per Customer
 
-![image](dataset\Monthly Total Per Customer.PNG)
+![image](https://github.com/FosterXia/Coding-Challenge/blob/master/dataset/Monthly%20Total%20Per%20Customer.PNG)
 
 - 3 Months Summary
 
-![image](dataset\3 Months Summary.PNG)
+![image](https://github.com/FosterXia/Coding-Challenge/blob/master/dataset/3%20Months%20Summary.PNG)
 
 
 
@@ -28,11 +28,11 @@ Used Java and Spring Boot implement the REST API.
 
 * Running Result
 
-![image](result\result.PNG)
+![image](https://github.com/FosterXia/Coding-Challenge/blob/master/result/result.PNG)
 
 * Unit Test Result
 
-![image](result\Unit Test Result.PNG)
+![image](https://github.com/FosterXia/Coding-Challenge/blob/master/result/Unit%20Test%20Result.PNG)
 
 
 
@@ -48,7 +48,7 @@ Used Java and Spring Boot implement the REST API.
 
 * The following picture shows how to call this REST API using Postman.
 
-  ![image](result\How to use.PNG)
+  ![image](https://github.com/FosterXia/Coding-Challenge/blob/master/result/How%20to%20use.PNG)
 
 
 
