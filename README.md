@@ -55,7 +55,7 @@ Used Java and Spring Boot implement the REST API.
 ##### How to run unit test
 
 * First, start the server locally by running DemoApplication in src/main/java/com.example.demo.
-* Next, run the unit test by running RestfulApisUnitTest in test/java/com.example.demo.
+* Next, run the unit test by running RestfulApisUnitTest in src/test/java/com.example.demo.
 
 
 
@@ -63,5 +63,6 @@ Used Java and Spring Boot implement the REST API.
 
 * The REST API is inside RestfulApis.java in src/main/java/com.example.demo/controller.
 * Also, define two classes Record and Reward in src/main/java/com.example.demo/model for the input and the output.
-* The unit test is inside RestfulApisUnitTest in test/java/com.example.demo.
+* The unit test is inside RestfulApisUnitTest in src/test/java/com.example.demo.
+
 
