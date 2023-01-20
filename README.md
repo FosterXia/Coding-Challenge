@@ -65,4 +65,7 @@ Used Java and Spring Boot implement the REST API.
 * Also, define two classes Record and Reward in src/main/java/com.example.demo/model for the input and the output.
 * The unit test is inside RestfulApisUnitTest.java in src/test/java/com.example.demo.
 
+##### Unit Test Screenshots
+![image](https://github.com/FosterXia/Coding-Challenge/blob/master/unit%20test%20screenshots/unit%20test%20screenshot.PNG)
+
 
